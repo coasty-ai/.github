@@ -1,10 +1,10 @@
-# LLMHUB.dev
+# coasty.ai
 
 ![Landing Page](assets/pic4.png)
 
 **Autonomous computer agents at scale**
 
-LLMHUB.dev builds autonomous computer control agents designed for performance, efficiency, and scalability.  
+coasty.ai builds autonomous computer control agents designed for performance, efficiency, and scalability.  
 Our platform enables seamless integration of intelligent agents that execute complex workflows reliably.
 
 ---
@@ -25,4 +25,4 @@ Our platform enables seamless integration of intelligent agents that execute com
 ---
 
 ## Learn More
-Visit us at [LLMHUB.dev](https://llmhub.dev)
+Visit us at [coasty.ai](https://coasty.ai)
