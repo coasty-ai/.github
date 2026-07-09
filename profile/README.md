@@ -1,7 +1,7 @@
 <div align="center">
 
 # Autonomous Computer Use Operators
-## #1 OS World - 82%
+## #1 OS World - 85.60%
 
 **An AI agent that controls a real computer — browses, clicks, types, and delivers finished work.**
 
