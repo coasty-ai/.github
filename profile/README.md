@@ -7,7 +7,7 @@
 
 [![Website](https://img.shields.io/badge/coasty.ai-Visit%20Site-0A0A0A?style=for-the-badge)](https://coasty.ai)
 [![OSWorld](https://img.shields.io/badge/OSWorld-82%25%20%231-22c55e?style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Desktop%20App-Download-6366f1?style=for-the-badge)](https://coasty.ai/download)
+
 
 </div>
 
